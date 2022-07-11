@@ -26,6 +26,14 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
 
+### Connect with me:
+
+<p align="left">
+<a href="www.linkedin.com/in/ruchitmavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ruchitmavani" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15225566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/15225566" height="30" width="40" /></a>
+<a href="https://instagram.com/ruchit_mavani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruchit_mavani" height="30" width="40" /></a>
+</p>
+
 <!--
 **ruchitmavani/ruchitmavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
